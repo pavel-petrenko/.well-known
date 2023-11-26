@@ -1,4 +1,6 @@
+theme: jekyll-theme-cayman
 theme: jekyll-theme-time-machine
+theme: jekyll-theme-architect
 
 title: Public Docs & Notes
 description: Just some public visible docs & notes.

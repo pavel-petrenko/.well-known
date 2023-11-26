@@ -1,8 +1,9 @@
-theme: jekyll-theme-cayman
-theme: jekyll-theme-time-machine
-theme: jekyll-theme-architect
-theme: jekyll-theme-tactile
 theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
+theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 
 title: Public Docs & Notes
 description: Just some public visible docs & notes.
